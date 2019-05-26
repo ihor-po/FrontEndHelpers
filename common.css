@@ -1,0 +1,18 @@
+.content__space-between {
+    -webkit-justify-content: space-between !important;
+    justify-content: space-between !important;
+}
+.content__space-around {
+    -webkit-justify-content: space-between !important;
+    justify-content: space-between !important;
+}
+.content__end {
+    -webkit-justify-content: flex-end !important;
+    justify-content: flex-end !important;
+}
+.margin__auto {
+    margin: auto !important;
+}
+.text__uppercase {
+    text-transform: uppercase !important;
+}
