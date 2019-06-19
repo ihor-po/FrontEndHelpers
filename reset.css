@@ -60,3 +60,6 @@ button:active, button:focus {
 button::-moz-focus-inner {
     border: 0;
 }
+input, textarea {
+    outline:none;
+}
