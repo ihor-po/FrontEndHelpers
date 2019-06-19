@@ -46,6 +46,13 @@ table {
 }
 input {
     box-sizing: border-box;
+    outline: none;
+}
+body a, body a:active, body a:focus {
+    outline: none;
+}
+body a {
+    color: #000000;
 }
 button:active, button:focus {
     outline: none;
