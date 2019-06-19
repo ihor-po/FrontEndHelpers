@@ -13,6 +13,43 @@
 .margin__auto {
     margin: auto !important;
 }
+.margin0 {
+    margin: 0 !important;
+}
+.mt1 {
+    margin-top: 1rem !important;
+}
+.mt2 {
+    margin-top: 2rem !important;
+}
+.mt3 {
+    margin-top: 3rem !important;
+}
+.mb1 {
+    margin-bottom: 1rem !important;
+}
+.mb2 {
+    margin-bottom: 2rem !important;
+}
+/* ================= TEXT ================= */
+.text--right {
+    text-align: right !important;
+}
 .text__uppercase {
     text-transform: uppercase !important;
 }
+.line-height3 {
+    line-height: 3rem !important;
+}
+/* ================= ==== ================= */
+/* ================= FLEX ================= */
+.align-self-end {
+    -webkit-align-self: flex-end !important;
+    align-self: flex-end !important;
+}
+/* ================= ==== ================= */
+/* ================= BACKGROUND ================= */
+.background--gray {
+    background: #CCCCCC !important;
+}
+/* ================= ========== ================= */
